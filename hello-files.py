@@ -1,3 +1,3 @@
-f = open("hello.txt", 'r')
+f = open("labdata.txt", 'r')
 a = f.read()
 print(a)
