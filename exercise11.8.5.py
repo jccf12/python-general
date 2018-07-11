@@ -13,4 +13,5 @@ for l in f:
     else:
         t.goto(int(i[0]), int(i[1]))
 
+t.hideturtle()
 w.exitonclick()
